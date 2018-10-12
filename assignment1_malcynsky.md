@@ -28,9 +28,8 @@ Once JSTOR had received and processed the request for the articles, the data was
     
     
 The last two steps of this process were repeated several times in order to determine what number of topics proved to form the most successful model of the corpus. A model with twenty-five topics was generated as a baseline, proving that this number of topics was too large, as it was clear many topics could be consolidated. Models with ten and twelve topics were then tested, both resulting in broad, muddy topics that did not provide enough insight into the corpus. It was ultimately determined that fifteen was the most successful number of topics to model the corpus. As shown on the web page linked [here](https://lmalcynsky.github.io/dh-topic-models/#/model) (as well as below), each topic in this model is clear and distinct; within each topic, there is a clear relationship between each listed term, and the titles of articles included all seem to coincide with a specific theme. 
-     
-     
-> https://lmalcynsky.github.io/dh-topic-models/#/model
+          
+https://lmalcynsky.github.io/dh-topic-models/#/model
     
     
 The topics displayed in this model illustrate key concepts of the corpus, as well as in the realms of political and social science, some of which were expected; such as “Academics” (I and II), “Politics”, “Law”, and “Economics”.  However, several topics were unexpected. For a journal that may appear to have a national scope, international relations is clearly relevant subject throughout the corpus. This is primarily illustrated through two topics in the model. 
@@ -52,6 +51,5 @@ Topic modeling is a good method of discovery; however, additional research and c
 * “About JSTOR.” *JSTOR*, ITHAKA, 2018
 * “American Academy of Political and Social Science.” *Wikipedia*, Wikimedia Foundation, 5 July 2018
 * Brett, Megan R. “Topic Modeling: A Basic Introduction.” *Journal of Digital Humanities*, 12 Dec. 2012
-* Goldstone, Andrew, and Ted Underwood. “What Can Topic Models of PMLA Teach Us About the History of Literary Scholarship?” 
-> *Journal of Digital Humanities*, 14 Dec. 2012
+* Goldstone, Andrew, and Ted Underwood. “What Can Topic Models of PMLA Teach Us About the History of Literary Scholarship?” *Journal of Digital Humanities*, 14 Dec. 2012
 
