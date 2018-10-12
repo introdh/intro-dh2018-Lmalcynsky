@@ -5,6 +5,7 @@
 #### October, 2018
 
 
+
 Advances in technology over the past thirty years have dramatically changed the conditions in the field of the humanities. This change was fueled by the unprecedented new access through computers and the internet. Massive digital libraries, such as Jstor, have provided scholars with the opportunity to obtain large collections of texts (corpus), opening the door for text analysis on a large scale. Macroanalysis, or “distant reading”, is an approach for highlighting broad scale trends, i.e. patterns within a large body of text (Brett, 2012; Goldstone & Underwood, 2012).  
    
    
@@ -38,9 +39,9 @@ The topics displayed in this model illustrate key concepts of the corpus, as wel
 The first topic, “Communism and the East” provides insight into a recurring focus in the journal on communism in nations such as China and Soviet union as a significant issue. Ultimately, this topic illustrates an important theme of the corpus: national anxieties towards the East perpetuated through political, cultural differences and the cold war. This topic is also particularly interesting because these geographies are still very relevant focusses or concerns in current American politics. Through further research into the articles listed under the topic, “Communism and the East”, one may gain a better understanding of historical factors contributing to the United States current relationship with nations such as China and Russia. 
     
     
-Second, the topic titled, “Trade, Migration and Europe”, illustrates another, but very different, focus on international affairs within the corpus. As shown by the grouping of articles within the topic, international trade, particularly tariffs, is a very significant subject within this journal. Topic modeling, then, helped identify expected and unexpected subjects relevant to the corpus.
-    
-    
+Second, the topic titled, “Trade, Migration and Europe”, illustrates another, but very different, focus on international affairs within the corpus. As shown by the grouping of articles within the topic, international trade, particularly tariffs, is a very significant subject within this journal. Topic modeling, then, helped identify expected and unexpected subjects relevant to the corpus.  
+
+
 Topic modeling is a good method of discovery; however, additional research and contextualization is needed in order to make conclusions about what may be highlighted by a topic in a topic model. Some scholars disagree with this form of text analysis based on the idea that a process like topic modeling removes what is human from the study of the humanities. However, in many ways, the results of topic modeling are more valuable because they were produced by a computer and not a human. First, the broad scale analysis of large a corpus is only possible due to the superior processing power of computers (Brett, 2012). Second, “topic modeling gives us a chance to bracket our received assumptions about the connections between concepts,” as the program that formulates each topic is free from preconceived bias and other human notions that can pollute scholarship (Goldstone & Underwood, 2012). While there are limitations to topic modeling, this method certainly holds the potential to be successful and informative tool for macroanalysis.  By utilizing a topic model to analyze the articles published from 1920-1975 in The Annals of the American Academy of Political and Social Science, one can obtain valuable insight into what subjects were the most pressing or controversial in the fields of social and political science, and how those subjects are related. 
 
 
