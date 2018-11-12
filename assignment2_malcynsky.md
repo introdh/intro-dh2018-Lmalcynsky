@@ -5,6 +5,7 @@
 #### November, 2018
 
 
+
 Within the realm of the digital humanities, networks are experiencing quite the awakening; which Weingart (2012) attributes, in part, to the newly available, easy accessible resources for acquiring datasets and tools for building networks. The term “network” refers to any complex, interlocking system (Weingart, 2012). A network, in its simplest form, is a collection of points joined together in pairs by lines; these “points” are called *nodes*, while the “lines” are known as *edges* (Newman, 2010). A network can be a useful tool for analysis, as it provides a visual representation of complex relationships within a corpus. In a network, the relation between two nodes is represented by the edge connecting them, and the *degree* of a node refers to the number of edges connected to that node. As networks are used to analyze relationships within a corpus, it is important that when selecting a corpus, the nodes must be interdependent; for “representing information as a network implicitly suggests not only that connections matter, but that they are *required* to understand whatever’s going on,” (Weingart, 2012). 
 
 
