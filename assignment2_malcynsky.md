@@ -47,23 +47,22 @@ While there are numerous possibilities of network analysis, as with any method, 
 #### Works Cited
 
 
+* “Diamond v. Chakrabarty.” *Wikipedia*, Wikimedia Foundation, 4 Sept. 2018
+
+
+* “Feltner v. Columbia Pictures Television, Inc.” *Wikipedia*, Wikimedia Foundation, 15 Oct. 2018
+
+
 * Fowler, James H, and Jeon, Sangick. “The Authority of the Supreme Court Precedent.” *Science Direct, Elsevier*, Social Networks, 2008.
+
+
+* “F. W. Woolworth Co. v. Contemporary Arts, Inc.” *Wikipedia*, Wikimedia Foundation, 27 July 2018
 
 
 * Newman, Mark E. J. “Networks: An Introduction.” *Oxford Scholarship Online*, Sept. 2010.
 
 
 * Weingart, Scott B. “Demystifying Networks, Parts I & II.” *Journal of Digital Humanities*, PressForward, Mar. 2012
-
-
-* “Diamond v. Chakrabarty.” *Wikipedia*, Wikimedia Foundation, 4 Sept. 2018
-
-
-
-* “Feltner v. Columbia Pictures Television, Inc.” *Wikipedia*, Wikimedia Foundation, 15 Oct. 2018
-
-
-* “F. W. Woolworth Co. v. Contemporary Arts, Inc.” *Wikipedia*, Wikimedia Foundation, 27 July 2018
 
 
 
